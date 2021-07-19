@@ -1,6 +1,3 @@
-# Customer-Lifetime-Value-Prediction-using-BG/NBD-model
-CLTV prediction using BG/NBD, Random Forest Regressor, and DNN
-
 # A BG/NBD Model for Customer Lifetime Value Prediction
 
 The following objectives were derived and implemented
